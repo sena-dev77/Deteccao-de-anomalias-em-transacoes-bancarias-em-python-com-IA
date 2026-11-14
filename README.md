@@ -1,3 +1,6 @@
+# Link para notebook no Google Colab
+[Clique aqui para abrir o notebook completo no Google Colab](https://colab.research.google.com/drive/1ELA-FhfgCxgGLBAky7XIJ1RJoCoc_b0K?usp=sharing)
+
 """# Comparativo de Atualizações do Modelo: Código Original vs. Notebook Atualizado
 
 Este documento apresenta as principais melhorias, correções metodológicas e novas abordagens implementadas no notebook de análise de fraudes em relação ao arquivo de script original (`test.py`).
